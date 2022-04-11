@@ -2,12 +2,14 @@
 
 ## Week12: Deep Learning Applications
 
-- [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
 - [Validation vs Testing](ValidationVsTest.pdf)
-- [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization_editGE.ipynb)
-- [Using pre-trained models](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras)
-- [Autoencoders](DL_Autoencoders.ipynb)
 - [Image preparation for training](skeyenet-readdata.zip)
+- [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
+- [Tensorflow Resources](https://www.tensorflow.org/resources/tools)
+- [TensorBoard] (https://www.tensorflow.org/tensorboard/get_started)
+- [Transfer Learning - Using pre-trained models](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras)
+- [Autoencoders](DL_Autoencoders.ipynb)
+- [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization_editGE.ipynb)
 
 All notebooks can be copied from and run on Google Colab:
 
