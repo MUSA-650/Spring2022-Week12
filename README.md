@@ -3,7 +3,6 @@
 ## Week12: Deep Learning Applications
 
 - [Validation vs Testing](ValidationVsTest.pdf)
-- [Image preparation for training](skeyenet-readdata.zip)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
 - [Tensorflow Resources](https://www.tensorflow.org/resources/tools)
 - [TensorBoard - Presentation and example](https://www.tensorflow.org/tensorboard/get_started)
